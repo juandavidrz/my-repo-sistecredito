@@ -1,11 +1,3 @@
-Hola Linea 1
-<<<<<<< HEAD
-
-QUIAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
-
-
-GEnaro, holiiiiiiiii
-=======
-Hola Linea 2
-Hola Linea 3
->>>>>>> 081d57d94492a793e7b633d4a39aba4d704e3453
+sdifjsdklafk
+asdfhDAFKAD
+KDASJFKADJÑK
